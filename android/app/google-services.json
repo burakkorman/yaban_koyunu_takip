@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "28740726957",
+    "firebase_url": "https://yabankoyunutakip.firebaseio.com",
+    "project_id": "yabankoyunutakip",
+    "storage_bucket": "yabankoyunutakip.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28740726957:android:6122442402eb68273ed624",
+        "android_client_info": {
+          "package_name": "com.example.yaban_koyunu_takip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28740726957-p5ptemhq028g6tje5c3nmgskec2f3q9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr00Ler-ZmRWuM62pEkYg1XHlfmPFjDwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28740726957-p5ptemhq028g6tje5c3nmgskec2f3q9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
